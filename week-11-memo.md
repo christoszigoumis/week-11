@@ -4,3 +4,5 @@ I started off by trying the archaeological data service code in my Jupyter, but 
 Traceback:"
 
 I wasn't sure where or how to progress from here however, even when I tried putting each line of code into a new cell like it told me to do.
+
+I got the same error message when I tried to do the other assignment as well.
